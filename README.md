@@ -15,7 +15,7 @@ Single self-contained HTML file. No frameworks, dependencies or tracking.
 
 ## Live
 
-[https://znuze.github.io/linux-basic-training](https://znuze.github.io/linux-basic-training)
+[https://znuze.github.io/Linux-basic-training](https://znuze.github.io/linux-basic-training)
 
 ## Usage
 
